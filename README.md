@@ -1,15 +1,15 @@
 # AI Junior Developer Test - NLP Chatbot
 
-## How to Run
+## How to Run 🚀
 
-This guide provides instructions on how to run the NLP Chatbot developed for the AI Junior Developer Test.
+This guide provides instructions on how to run the NLP Chatbot developed for the AI Junior Developer Test. The code has been tested using Python 3.8 on Linux Ubuntu Debian 20.
 
-### Local Execution
+### Local Execution 🖥️
 
 1. **Clone the Repository:**
 
     ```bash
-    https://github.com/Ahsanmaqbool/science_chatbot.git
+    git clone https://github.com/Ahsanmaqbool/science_chatbot.git
     cd science_chatbot
     ```
 
@@ -42,7 +42,7 @@ This guide provides instructions on how to run the NLP Chatbot developed for the
     ./start.sh
     ```
 
-### Docker Container
+### Docker Container 🐳
 
 1. **Build the Docker Image:**
 
@@ -55,3 +55,7 @@ This guide provides instructions on how to run the NLP Chatbot developed for the
     ```bash
     docker run -it science_chatbot
     ```
+
+Note: Ensure that you have Python 3.8 installed on your system for local execution. If using Docker, the container encapsulates all dependencies.
+
+This code has been tested using Python 3.8 on Linux Ubuntu 20.04.6 LTS.
