@@ -55,7 +55,3 @@ This guide provides instructions on how to run the NLP Chatbot developed for the
     ```bash
     docker run -it science_chatbot
     ```
-
-Note: Ensure that you have Python 3.8 installed on your system for local execution. If using Docker, the container encapsulates all dependencies.
-
-This code has been tested using Python 3.8 on Linux Ubuntu 20.04.6 LTS.
