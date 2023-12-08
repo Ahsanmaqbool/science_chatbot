@@ -2,7 +2,7 @@
 
 ## How to Run 🚀
 
-This guide provides instructions on how to run the NLP Chatbot developed for the AI Junior Developer Test. The code has been tested using Python 3.8 on Linux Ubuntu Debian 20.
+This guide provides instructions on how to run the NLP Chatbot developed for the AI Junior Developer Test. The code has been tested using Python 3.8 on Linux Ubuntu 20.04.6 LTS.
 
 ### Local Execution 🖥️
 
