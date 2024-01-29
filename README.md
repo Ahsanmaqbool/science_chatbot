@@ -15,13 +15,13 @@ This guide provides instructions on how to run the NLP Chatbot developed for the
 
 2. **Create and Activate Virtual Environment:**
 
-    If `virtualenv` is not installed:
+    If `virtualenv` is not installed, install it using:
 
     ```bash
     pip install virtualenv
     ```
 
-    Then create and activate the virtual environment:
+    Then, create and activate the virtual environment:
 
     ```bash
     python3.8 -m venv science_chatbot
@@ -29,6 +29,8 @@ This guide provides instructions on how to run the NLP Chatbot developed for the
     ```
 
 3. **Install Dependencies:**
+
+    Use pip to install the required dependencies:
 
     ```bash
     pip install -r requirements.txt
@@ -46,11 +48,15 @@ This guide provides instructions on how to run the NLP Chatbot developed for the
 
 1. **Build the Docker Image:**
 
+    To build the Docker image, run the following command:
+
     ```bash
     docker build -t science_chatbot .
     ```
 
 2. **Run the Docker Container:**
+
+    Launch the Docker container using the following command:
 
     ```bash
     docker run -it science_chatbot
